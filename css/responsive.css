@@ -1,0 +1,1186 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  .pd {
+    padding: 60px 0 30px 30px;
+  }
+
+  .brands-logo-sec img {
+    max-width: 175px;
+  }
+
+  .trusted-img img {
+    max-width: 130%;
+    margin-left: -37%;
+  }
+
+  .questions-sec ul li a {
+    display: flex;
+    align-items: center;
+  }
+
+  .numbers-img img {
+    max-width: 175%;
+  }
+
+  .subs-btn .pill-btn {
+    padding: 11px 50px;
+    margin-left: 17px;
+  }
+
+  .footer-fourth ul li a {
+    width: 35px;
+    height: 35px;
+    font-size: 18px;
+    line-height: 35px;
+  }
+
+  .footer-logo img {
+    margin-left: 25px;
+  }
+
+  .fixed-nav {
+    padding: 7px 0;
+  }
+
+  .modal-dialog {
+    max-width: 750px;
+    margin: 35px auto;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Show 4th slide on md if col-md-4*/
+    .carousel-inner .active.col-md-4.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -33.3333%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+
+  .fixed-nav {
+    padding: 5px;
+  }
+
+  .pd {
+    padding: 30px 30px 30px;
+  }
+
+  .mlmy {
+    margin-left: -30px;
+  }
+
+  .header-content img {
+    min-width: 0;
+    width: 650px;
+    margin: 0 auto;
+    padding: 40px 0 80px;
+  }
+
+  .brands-logo-sec img {
+    max-width: 150px;
+  }
+
+  .global-right h2 br {
+    display: none;
+  }
+
+  .global-right {
+    margin-top: 70px;
+  }
+
+  .global-sec {
+    padding: 30px 40px 80px;
+  }
+
+  .trusted-sec {
+    padding: 80px 0;
+  }
+
+  .trusted-img {
+    margin: 0 auto;
+  }
+
+  .trusted-img img {
+    width: 635px;
+    margin: 0 auto;
+  }
+
+  .trusted-content h2 br {
+    display: none;
+  }
+
+  .trusted-content {
+    padding: 80px 35px 0;
+  }
+
+  .questions-sec {
+    padding: 80px 35px;
+  }
+
+  .features-sec {
+    padding: 80px 0;
+  }
+
+  .features-top {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .solution-sec {
+    padding: 80px 45px;
+  }
+
+  .solution-content {
+    max-width: 100%;
+  }
+
+  .solution-sec p {
+    margin: 25px 0 50px;
+  }
+
+  .review-right-wrap {
+    display: none;
+  }
+
+  .review-right {
+    max-width: 100%;
+    margin-bottom: 35px;
+  }
+
+  .numbers-sec {
+    padding: 100px 35px;
+  }
+
+  .numbers-sec h2 br {
+    display: none;
+  }
+
+  .numbers-sec h2 {
+    margin-bottom: 20px;
+  }
+
+  .numbers-img img {
+    max-width: 100%;
+    width: 650px;
+    margin: 0 auto;
+    padding-top: 60px;
+  }
+
+  .tall-border {
+    left: -35px;
+  }
+
+  .pricing-sec {
+    padding: 80px 35px;
+  }
+
+  .pricing-top {
+    max-width: 100%;
+  }
+
+  .subs-sec {
+    padding: 60px 35px;
+  }
+
+  .subs-btn .pill-btn {
+    display: block;
+    text-align: center;
+    margin-left: 0;
+    margin-top: 30px;
+  }
+
+  .subs-left {
+    margin-top: 20px;
+  }
+
+  .footer-top {
+    padding: 60px 35px;
+  }
+
+  footer h6 {
+    margin-bottom: 10px;
+  }
+
+  .footer-first {
+    margin-bottom: 30px;
+  }
+
+  .footer-second {
+    margin-bottom: 30px;
+  }
+
+  .footer-third {
+    margin-bottom: 30px;
+  }
+
+  .footer-fourth {
+    margin-bottom: 30px;
+  }
+
+  .footer-fourth ul {
+    margin-top: 15px;
+  }
+
+  .footer-fourth ul li a {
+    width: 30px;
+    height: 30px;
+    font-size: 17px;
+    line-height: 30px;
+  }
+
+  .footer-logo img {
+    margin-left: 50px;
+  }
+
+  .footer-bottom {
+    padding: 15px 35px 0;
+  }
+
+  .footer-logo img {
+    margin-left: 50px;
+  }
+
+  .video-play i {
+    margin-left: 23px;
+    font-size: 30px;
+  }
+
+  span.video-i-wrap {
+    width: 70px;
+    height: 70px;
+  }
+
+  .round-wrap {
+    width: 70px;
+    height: 70px;
+  }
+
+  .play-icon {
+    font-size: 30px;
+    margin-top: 12.5px;
+  }
+
+  .modal-dialog {
+    max-width: 650px;
+    margin: 35px auto;
+  }
+
+  .flag-menu {
+    padding-bottom: 27px;
+  }
+
+  .price-box-wrap {
+    margin-bottom: 0;
+    padding-top: 40px;
+  }
+
+  .pricing-sec p {
+    margin: 25px 0 15px;
+  }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* Show 3rd slide on sm if col-sm-6*/
+    .carousel-inner .active.col-sm-6.carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -50%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+
+  .fixed-nav {
+    padding: 5px 0;
+  }
+
+  .pd {
+    padding: 30px 30px 30px;
+  }
+
+  .mlmy {
+    margin-left: -15px;
+  }
+
+  .header-content img {
+    min-width: 0;
+    width: 475px;
+    margin: 0 auto;
+    padding: 30px 0 75px;
+  }
+
+  .brands-logo-sec img {
+    max-width: 180px;
+  }
+
+  .global-right h2 br {
+    display: none;
+  }
+
+  .global-right {
+    margin-top: 60px;
+  }
+
+  .global-sec {
+    padding: 30px 45px 70px;
+  }
+
+  .trusted-sec {
+    padding: 70px 0;
+  }
+
+  .trusted-img {
+    margin: 0 auto;
+  }
+
+  .trusted-img img {
+    width: 475px;
+    margin: 0 auto;
+  }
+
+  .trusted-content h2 br {
+    display: none;
+  }
+
+  .trusted-content {
+    padding: 70px 40px 0;
+  }
+
+  .questions-sec {
+    padding: 70px 40px;
+  }
+
+  .features-sec {
+    padding: 70px 40px;
+  }
+
+  .features-top {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .solution-sec {
+    padding: 70px 40px;
+  }
+
+  .solution-content {
+    max-width: 100%;
+  }
+
+  .solution-sec p {
+    margin: 25px 0 50px;
+  }
+
+  .review-right-wrap {
+    display: none;
+  }
+
+  .review-right {
+    max-width: 100%;
+    margin-bottom: 35px;
+  }
+
+  .numbers-sec {
+    padding: 70px 40px;
+  }
+
+  .numbers-sec h2 br {
+    display: none;
+  }
+
+  .numbers-sec h2 {
+    margin-bottom: 20px;
+  }
+
+  .numbers-img img {
+    max-width: 100%;
+    margin: 0 auto;
+    padding-top: 60px;
+  }
+
+  .tall-border {
+    left: -25px;
+  }
+
+  .pricing-sec {
+    padding: 70px 40px;
+  }
+
+  .pricing-top {
+    max-width: 100%;
+  }
+
+  .subs-sec {
+    padding: 70px 40px;
+  }
+
+  .subs-btn .pill-btn {
+    display: block;
+    text-align: center;
+    margin-left: 0;
+    margin-top: 30px;
+  }
+
+  .subs-left {
+    margin-top: 20px;
+  }
+
+  .footer-top {
+    padding: 70px 40px 50px;
+  }
+
+  footer h6 {
+    margin-bottom: 10px;
+  }
+
+  .footer-first {
+    margin-bottom: 30px;
+  }
+
+  .footer-second {
+    margin-bottom: 30px;
+  }
+
+  .footer-third {
+    margin-bottom: 30px;
+  }
+
+  .footer-fourth {
+    margin-bottom: 30px;
+  }
+
+  .footer-fourth ul {
+    margin-top: 15px;
+  }
+
+  .footer-fourth ul li a {
+    width: 30px;
+    height: 30px;
+    font-size: 17px;
+    line-height: 30px;
+  }
+
+  .footer-logo img {
+    margin-left: 50px;
+  }
+
+  .footer-bottom {
+    padding: 15px 35px 0;
+  }
+
+  .footer-logo img {
+    margin-left: 0;
+  }
+
+  .video-play i {
+    margin-left: 21px;
+    margin-top: -5px;
+  }
+
+  span.video-i-wrap {
+    width: 65px;
+    height: 65px;
+  }
+
+  .round-wrap {
+    width: 65px;
+    height: 65px;
+  }
+
+  .play-icon {
+    margin-top: 10.5px;
+  }
+
+  .modal-dialog {
+    max-width: 650px;
+    margin: 35px auto;
+  }
+
+  .flag-menu {
+    padding-bottom: 27px;
+  }
+
+  .navbar-toggler-icon {
+    margin-left: 5px;
+  }
+
+  .navbar-toggler {
+    margin-right: -12px;
+  }
+
+  .navbar-brand {
+    margin-left: -5px;
+  }
+
+  .header-content {
+    padding-top: 70px;
+  }
+
+  .header-content p {
+    margin: 25px 0 10px;
+  }
+
+  .brands-logo-sec {
+    padding: 55px 0 30px;
+  }
+
+  .prev-icon, .next-icon {
+    font-size: 20px;
+    top: 15px;
+  }
+
+  .questions-sec h2 {
+    margin-bottom: 25px;
+  }
+
+  .questions-sec ul li a {
+    padding: 12px 0;
+  }
+
+  .single-review {
+    margin-bottom: 40px;
+    box-shadow: 0 3px 12px #e2e2e2;
+    border-radius: 5px;
+    padding: 30px;
+  }
+
+  .review-sec {
+    padding: 70px 40px 40px;
+  }
+
+  .subs-btn .pill-btn {
+    padding: 11px 70px;
+  }
+
+  .modal-dialog {
+    max-width: 520px;
+  }  
+
+  .questions-sec ul li a span {
+    margin-right: 10px;
+  }
+
+  .price-box-wrap {
+    margin-bottom: 0;
+    padding-top: 40px;
+  }
+
+  .pricing-sec p {
+    margin: 25px 0 15px;
+  }
+}
+
+
+
+@media (max-width: 576px) {
+
+  h1 {
+    font-size: 30px;
+  }
+
+  .fixed-nav {
+    padding: 5px 0;
+  }
+
+  .pd {
+    padding: 30px 30px 30px;
+  }
+
+  .mlmy {
+    margin-left: -15px;
+  }
+
+  .header-content img {
+    min-width: 0;
+    width: 475px;
+    margin: 0 auto;
+    padding: 30px 0 75px;
+  }
+
+  .brands-logo-sec img {
+    max-width: 225px;
+  }
+
+  .global-right h2 br {
+    display: none;
+  }
+
+  .global-right {
+    margin-top:30px;
+  }
+
+  .global-sec {
+    padding: 30px 20px 60px;
+  }
+
+  .trusted-sec {
+    padding: 50px 0;
+  }
+
+  .trusted-img {
+    margin: 0 auto;
+  }
+
+  .trusted-img img {
+    width: 475px;
+    margin: 0 auto;
+  }
+
+  .trusted-content h2 br {
+    display: none;
+  }
+
+  .trusted-content {
+    padding: 60px 20px 0;
+  }
+
+  .questions-sec {
+    padding: 60px 20px;
+  }
+
+  .features-sec {
+    padding: 60px 20px 35px;
+  }
+
+  .features-top {
+    width: 100%;
+    margin-bottom: 45px;
+  }
+
+  .solution-sec {
+    padding: 60px 20px;
+  }
+
+  .solution-content {
+    max-width: 100%;
+  }
+
+  .solution-sec p {
+    margin: 25px 0 40px;
+  }
+
+  .review-right-wrap {
+    display: none;
+  }
+
+  .review-right {
+    max-width: 100%;
+    margin-bottom: 35px;
+  }
+
+  .numbers-sec {
+    padding: 60px 20px;
+  }
+
+  .numbers-sec h2 br {
+    display: none;
+  }
+
+  .numbers-sec h2 {
+    margin-bottom: 20px;
+  }
+
+  .numbers-img img {
+    max-width: 100%;
+    margin: 0 auto;
+    padding-top: 60px;
+  }
+
+  .tall-border {
+  display: none;
+  }
+
+  .pricing-sec {
+    padding: 60px 20px 35px;
+  }
+
+  .pricing-top {
+    max-width: 100%;
+  }
+
+  .subs-sec {
+    padding: 60px 20px 50px;
+  }
+
+  .subs-btn .pill-btn {
+    display: block;
+    text-align: center;
+    margin-left: 0;
+    margin-top: 30px;
+  }
+
+  .subs-left {
+    margin-top: 0;
+  }
+
+  .footer-top {
+    padding: 60px 25px 35px;
+  }
+
+  footer h6 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  .footer-first {
+    margin-bottom: 30px;
+  }
+
+  .footer-second {
+    margin-bottom: 30px;
+  }
+
+  .footer-third {
+    margin-bottom: 30px;
+  }
+
+  .footer-fourth {
+    margin-bottom: 30px;
+  }
+
+  .footer-fourth ul {
+    margin-top: 15px;
+  }
+
+  .footer-fourth ul li a {
+    width: 30px;
+    height: 30px;
+    font-size: 17px;
+    line-height: 30px;
+  }
+
+  .footer-logo img {
+    margin-left: 50px;
+  }
+
+  .footer-bottom {
+    padding: 15px 20px;
+  }
+
+  .footer-logo img {
+    margin-left: -5px;
+  }
+
+  .video-play i {
+    margin-left: 21px;
+    margin-top: -5px;
+  }
+
+  span.video-i-wrap {
+    width: 65px;
+    height: 65px;
+  }
+
+  .round-wrap {
+    width: 65px;
+    height: 65px;
+  }
+
+  .play-icon {
+    margin-top: 8.5px;
+    margin-left: 8px;
+  }
+
+  .modal-dialog {
+    max-width: 650px;
+    margin: 35px auto;
+  }
+
+  .flag-menu {
+    padding-bottom: 27px;
+  }
+
+  .navbar-toggler-icon {
+    margin-left: 5px;
+  }
+
+  .navbar-toggler {
+    margin-right: -12px;
+  }
+
+  .navbar-brand {
+    margin-left: -5px;
+  }
+
+  .header-content {
+    padding-top: 70px;
+    padding: 70px 12px 0 12px;
+  }
+
+  .header-content p {
+    margin: 25px 0 10px;
+  }
+
+  .brands-logo-sec {
+    padding: 55px 0 30px;
+  }
+
+  .prev-icon, .next-icon {
+    font-size: 20px;
+    top: 15px;
+  }
+
+  .questions-sec h2 {
+    margin-bottom: 20px;
+  }
+
+  .questions-sec ul li a {
+    padding: 12px 0;
+  }
+
+  .single-review {
+    margin-bottom: 40px;
+    box-shadow: 0 3px 12px #e2e2e2;
+    border-radius: 5px;
+    padding: 30px;
+  }
+
+  .review-sec {
+    padding: 60px 20px 30px;
+  }
+
+  .subs-btn .pill-btn {
+    padding: 10px 70px;
+  }
+
+  .header-content .col-xs-6 {
+    width: 50%;
+  }
+
+  a.pill-btn {
+    padding: 12px 24px;
+  }
+
+  .features-top p {
+    margin-top: 25px;
+  }
+
+  .fill-btn-wrapper {
+    margin-top: 10px;
+  }
+
+  .large-p {
+    font-size: 40px;
+  }
+
+  .numbers-padding-wrap {
+    margin-bottom: 2;
+  }
+
+  .numbers-border-wrap {
+    margin-bottom: 10px;
+  }
+
+  .fill-btn {
+    padding: 8px 18px;
+  }
+
+  .unique-col {
+    padding: 0 20px 35px;
+  }
+
+  .col-lg-4.col-md-12.order-md-first.order-sm-first {
+    display: none;
+  }
+
+  .subs-right {
+    display: none;
+  }
+
+  .subs-top {
+    margin-bottom: 35px;
+  }
+
+  .col-lg-10.col-md-9.col-sm-9 {
+    flex-basis: 65%;
+    max-width: 65%;
+  }
+
+  .col-lg-2.col-md-3.col-sm-3 {
+    flex-basis: 35%;
+    max-width: 35%;
+  }
+
+  .footer-bottom .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .footer-bottom-left p {
+    margin-bottom: 0;
+    font-size: 10px;
+  }
+
+  .common-footer ul li a {
+    font-size: 14px;
+  }
+
+  .form-control {
+    height: calc(1.8em + 0.75rem + 2px);
+  }
+
+  .questions-sec ul li a span {
+    margin-right: 8px;
+  }
+
+  .subs-top {
+    display: block;
+  } 
+
+  .unique-col {
+    display: block;
+  }
+
+  .price-box-wrap {
+    margin-bottom: 0;
+    padding-top: 40px;
+  }
+
+  .pricing-sec p {
+    margin: 20px 0 5px;
+  } 
+}
+
+
+
+@media (max-width: 424.98px) {
+
+  a.pill-btn {
+  padding: 12px 25px;
+  }
+
+  .col-xl-4.col-lg-5.col-md-4.col-sm-5.col-xs-6 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .col-xl-5.col-lg-6.col-md-5.col-sm-5.col-xs-6.mlmy {
+    width: 100%;
+  }
+
+  .view-video-wrap {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .video-play i {
+    margin-left: 7.5px;
+    margin-top: -8px;
+  }
+
+  span.video-i-wrap {
+    width: 60px;
+    height: 60px;
+  }
+
+  .global-sec {
+    padding: 25px 15px 50px;
+  }
+
+  .trusted-sec {
+    padding: 40px 0;
+  }
+
+  .questions-sec {
+    padding: 50px 15px;
+  }
+
+  .features-sec {
+    padding: 50px 15px 25px;
+  }
+
+  .solution-sec {
+    padding: 50px 15px;
+  }
+
+  .review-sec {
+    padding: 50px 15px 25px;
+  }
+
+  .numbers-sec {
+    padding: 50px 15px;
+  }
+
+  .pricing-sec {
+    padding: 50px 15px;
+  }
+
+  .subs-sec {
+    padding: 50px 15px 40px;
+  }
+
+  .subs-btn .pill-btn {
+    padding: 9px 27px;
+  }
+
+  .footer-top {
+    padding: 50px 20px 25px;
+  }
+
+  .footer-logo img {
+    margin-left: 0;
+  }
+
+  .footer-bottom {
+    overflow: hidden;
+  }
+
+  .footer-fourth {
+  }
+
+  .common-footer ul li a {
+    font-size: 14px;
+  }
+
+  .round-wrap {
+    width: 60px;
+    height: 60px;
+  }
+
+  .play-icon {
+    margin-top: 6px;
+    margin-left: 7.5px;
+  }
+}
+
+
+@media (max-width: 380px) {
+
+  a.fill-btn.fl-left {
+    margin-left: 20px;
+  }
+
+  .fill-btn {
+    margin-bottom: 15px;
+  }
+
+  .col-xl-4.col-lg-5.col-md-4.col-sm-5.ptb {
+    margin-left: 20px;
+  }
+
+  .brands-logo-sec img {
+    max-width: 215px;
+  }
+
+  .questions-sec ul li a span {
+    margin-right: 0;
+  }
+
+  .price-box-wrap {
+    margin-bottom: 0;
+    padding-top: 40px;
+  }
+}
+
+
+
+@media (min-width: 576px) {
+    .carousel-item {
+        margin-right: 0;
+    }
+    /* show 2 items */
+    .carousel-inner .active + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+    .carousel-item-next.carousel-item-left + .carousel-item,
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* farthest right hidden item must be also positioned for animations */
+    .carousel-inner .carousel-item-prev.carousel-item-right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+    .carousel-item-prev.carousel-item-right + .carousel-item,
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* MD */
+@media (min-width: 768px) {
+    /* show 3rd of 3 item slide */
+    .carousel-inner .active + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* LG */
+@media (min-width: 992px) {
+    /* show 4th item */
+    .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    /* Show 5th slide on lg if col-lg-3 */
+    .carousel-inner .active.col-lg-3.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -25%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction //t - previous slide direction last item animation fix */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
